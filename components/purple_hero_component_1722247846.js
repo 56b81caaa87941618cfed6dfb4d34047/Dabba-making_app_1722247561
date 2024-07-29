@@ -6,7 +6,7 @@
 
 Vue.component("purple_hero_component_1722247846", {
     template: `
-    <section id="hero-section-container" style="min-height: 550px">
+    <section id="hero-section-container" style="min-height: 630px" >
         <div id="section-container" class="relative max-w-6xl mx-auto px-4 sm:px-6 bg-white">
             <div id="hero-content-container" class="pt-32 pb-16 md:pt-52 md:pb-32">
                 <!-- Hero content -->
